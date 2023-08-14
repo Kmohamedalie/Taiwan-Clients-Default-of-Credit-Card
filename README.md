@@ -9,7 +9,7 @@ This research aimed at the case of customersâ€™ default payments in Taiwan 
 **Dataset:** <a href="https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients">UCI Machine Learning</a>,   <a href="https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset">Kaggle</a>
 
 
-**Notebook:** [Link]()
+**Notebook:** [Link](https://github.com/Kmohamedalie/Taiwan-Clients-Default-of-Credit-Card/blob/master/Notebook/TaiwanClients%20Default%20of%20Credit%20Card%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine)%20.ipynb)
 
 
 **Additional Information**
