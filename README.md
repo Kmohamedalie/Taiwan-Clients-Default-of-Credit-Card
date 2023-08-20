@@ -19,6 +19,7 @@ This research aimed at the case of customers default payments in Taiwan and comp
 | Boosting Machines | 82% |79.32% |
 
 
+<br>
 
 **Additional Information about the dataset**
 
